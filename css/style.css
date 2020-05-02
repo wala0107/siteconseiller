@@ -41,11 +41,19 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
-
+img.team-img{
+  width: 30%;
+  height: 30%;
+}
 video.videoposition {
   padding-top: 15px;
 }
-
+img.imgacceuil{
+  padding-bottom: 20px;
+}
+img.imgacceuil2{
+  padding-bottom: 0px;
+}
 html {
   font-family: sans-serif;
   line-height: 1.15;
